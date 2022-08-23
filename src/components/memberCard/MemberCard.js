@@ -14,7 +14,7 @@ const MemberCard = () => {
 
   const fetchMembers = () => {
     axios
-      .get(`http://localhost:3300/api/household/`)
+      .get(`https://api-help-me.herokuapp.com/api/household/`)
       .then((res) => {
         console.log('We found your members:', res)
         setMembers(res.data);
