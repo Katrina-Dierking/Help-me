@@ -6,8 +6,10 @@ export default function Home() {
   return (
     <>
     <HomeCardWrapper>
+    <div className='container'>
 
            <Card />
+           </div>
         </HomeCardWrapper>
     </>
   )

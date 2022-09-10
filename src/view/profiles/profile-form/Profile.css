@@ -1,0 +1,28 @@
+.profile-wrapper {
+  border: 2px solid red;
+  width: 70vw;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.additional-surgery {
+  margin-left: 10%;
+}
+
+.med-input {
+  border: 1px solid red;
+  margin-bottom:1%;
+  
+}
+
+.meds-section {
+  display:flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.mid-med {
+  width: 50vw;
+}

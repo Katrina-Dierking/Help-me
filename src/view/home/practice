@@ -1,0 +1,26 @@
+let db = [
+    {
+        username: 'katrina', 
+        pw: 'secret'
+    }
+];
+
+let newsfeed = [
+    {
+        username: 'channing', 
+        timeline: 'I am tired'
+    }
+]
+
+let usernamePrompt = prompt ('what is your username')
+let pwPrompt = prompt('what is your password')
+
+function signin(user, pass) {
+    if(user === db[0].username && pass === db[0].pw) {
+        console.log(newsfeed)
+    } else {
+        console.log('wrong user')
+    }
+}
+
+signin(usernamePrompt, pwPrompt)

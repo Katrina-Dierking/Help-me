@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import axios from 'axios'
-
-import { CardContainer, MemberCardWrapper} from './memberStyles';
+import './Member.css'
+import { MemberCardWrapper} from './memberStyles';
 
 
 const MemberCard = () => {
@@ -25,10 +25,10 @@ const MemberCard = () => {
       });
 };
   return (
-      <div>
-      <CardContainer>
+ 
+    <div className='container'>
           {members.map((member, key) => (
-            <MemberCardWrapper 
+            <MemberCardWrapper
               key={member.id}>
               <h3>{member.name}</h3>
             
@@ -53,13 +53,11 @@ const MemberCard = () => {
               </div>
               </MemberCardWrapper>
           ))}
-        </CardContainer>
-      </div>
-  );
-};
-          export default MemberCard;
-          //   {member.surgeries.map((surgery, key) => (
-          //     <div key = {surgery.date}> 
-          //     <h5> {surgery.date} | {surgery.description} </h5>
-          //     </div>
-          // ))}
+          </div>
+        );
+      };
+      export default MemberCard;
+      // <form action="/addMember" method="POST">
+      //     <input type="text" placeholder='Name' name='name' />
+      //     <input type="submit" />
+      // </form>

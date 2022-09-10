@@ -1,7 +1,11 @@
 import React from 'react'
+import Profile from '../profiles/profile-form/Profile'
 
-export default function Dashboard() {
+const Dashboard=() =>{
   return (
-    <div>Dashboard</div>
+    <Profile />
+    
   )
 }
+
+export default Dashboard
