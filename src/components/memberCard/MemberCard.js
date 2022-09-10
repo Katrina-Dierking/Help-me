@@ -57,7 +57,4 @@ const MemberCard = () => {
         );
       };
       export default MemberCard;
-      // <form action="/addMember" method="POST">
-      //     <input type="text" placeholder='Name' name='name' />
-      //     <input type="submit" />
-      // </form>
+  

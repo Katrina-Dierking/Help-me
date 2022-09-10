@@ -10,6 +10,12 @@ function App() {
     <div>
     <BrowserRouter>
     <TopNav />
+    <section className='App-header '>
+        <img src={'https://blog.hertimetocode.com/wp-content/uploads/2022/08/HELP.png'} 
+        alt = "Help App logo. Help with heart in background."
+        height="150px"
+        />
+      </section>
         <Routes>
           <Route exact path='/' element={<Home />}/>
           <Route path='/dashboard' element={<Dashboard />}/>
