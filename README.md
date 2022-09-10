@@ -29,10 +29,14 @@ I spent many years as a medic before becoming a software engineer and I know the
 ### TECH STACK
 
 📌 Though I have built a backend for this project, it will ultimately be replaced by the backend RapidSOS will create for this app. 
+
+ ##### [Current backend](https://github.com/Katrina-Dierking/Help-API)
+
+
 |               |               |
 | ------------- | ------------- |
 | Languages     | <img src="https://img.shields.io/badge/Lang-HTML5-ff69b4.svg?style=flat-plastic" alt="Lang"> <img src="https://img.shields.io/badge/Lang-CSS-ff69b4.svg?style=flat-plastic" alt="Lang"> <img src="https://img.shields.io/badge/Lang-JavaScript-ff69b4.svg?style=flat-plastic" alt="Lang">  |
-| Libraries     | <img src="https://img.shields.io/badge/Lib-React-blue.svg?style=flat-plastic" alt="LIBRARIES"> |
+| Libraries     | <img src="https://img.shields.io/badge/Lib-React-blue.svg?style=flat-plastic" alt="LIBRARIES"> <img src="https://img.shields.io/badge/Lib-React--collapse-brightgreen" alt="LIBRARIES"> <img src="https://img.shields.io/badge/Lib-Axios-brightgreen" alt="LIBRARIES">|
 | Frameworks    |<img src="https://img.shields.io/badge/FW-Node.js-purple.svg?style=flat-plastic" alt="frameworks"> <img src="https://img.shields.io/badge/FW-Express-purple.svg?style=flat-plastic" alt="frameworks"> <img src="https://img.shields.io/badge/FW-PowerShell-purple.svg?style=flat-plastic" alt="frameworks"> |
 | Other |  <img src="https://img.shields.io/badge/Tools-Postman-pink.svg?style=flat-plastic" alt="tools">  <img src="https://img.shields.io/badge/Tools-Git-pink.svg?style=flat-plastic" alt="tools"> <img src="https://img.shields.io/badge/Tools-GitHub-pink.svg?style=flat-plastic" alt="tools"> <img src="https://img.shields.io/badge/Editor-VSCode-pink.svg?style=flat-plastic" alt="editor"> <img src="https://img.shields.io/badge/OS-Windows 10-pink.svg?style=flat-plastic" alt="os"> |
 
