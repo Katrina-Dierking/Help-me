@@ -3,9 +3,9 @@
 
 ## About HELP ME!!
 
-In 2020, we lost our beloved Selena. She was young, beautiful, and full of life. But one day my son came home to find her lifeless body. He called 911 for help but because he was hysterical, valuable time was wasted as 911 struggled to understand his needs and location. Valuable time that could save a life. 
+In 2020, we lost our beloved Selena. She was young, beautiful, and full of life. But one day my son came home to find her lifeless body. He called 911 for help but because he was hysterical, valuable time was wasted as 911 struggled to understand his needs and location. Valuable time was lost --- time that could have saved her life.
 
-I spent many years as a medic before becoming a software engineer and I know the struggle 911 operators face when trying to help a crying family member. Since that day in November when we lost Selena, I decided I wanted to fix this issue. 
+I spent many years as a medic before becoming a software engineer and I know the struggle 911 operators face when trying to help a panicked family member. Since that November day when we lost Selena, I knew I wanted to fix this issue. 
 
 👷 👷 👷This is still a work in progress.👷 👷👷 
 
