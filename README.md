@@ -7,7 +7,7 @@ In 2020, we lost our beloved Selena. She was young, beautiful, and full of life.
 
 I spent many years as a medic before becoming a software engineer and I know the struggle 911 operators face when trying to help a panicked family member. Since that November day when we lost Selena, I knew I wanted to fix this issue. 
 
-👷 👷 👷This is still a work in progress.👷 👷👷 
+👷 👷 👷This is a work in progress.👷 👷👷 
 
 #### 🚩 THE PROBLEM: 
 ##### There is often valuable time lost during translation on a 911 call.
@@ -42,7 +42,7 @@ I spent many years as a medic before becoming a software engineer and I know the
 
 <hr>
 
-### 📌 IN PROCESS:
+### 📌 IN PROGRESS:
     💡  1. Create a dropzone for profile images
     ➕  2. CRUD operations to allow for additional household members
     🆘  3. Connect to RapidSOS
