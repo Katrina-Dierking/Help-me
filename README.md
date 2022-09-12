@@ -1,70 +1,53 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub Cover](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
-## Available Scripts
+## About HELP ME!!
 
-In the project directory, you can run:
+In 2020, we lost our beloved Selena. She was young, beautiful, and full of life. But one day my son came home to find her lifeless body. He called 911 for help but because he was hysterical, valuable time was wasted as 911 struggled to understand his needs and location. Valuable time was lost --- time that could have saved her life.
 
-### `npm start`
+I spent many years as a medic before becoming a software engineer and I know the struggle 911 operators face when trying to help a panicked family member. Since that November day when we lost Selena, I knew I wanted to fix this issue. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👷 👷 👷This is a work in progress.👷 👷👷 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### 🚩 THE PROBLEM: 
+##### There is often valuable time lost during translation on a 911 call.
 
-### `npm test`
+#### ✨ THE SOLUTION: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+        👨‍👩‍👧‍👦  1. Create profiles for every household member to answer (ahead of time) all the questions the 911 will ask along with the address
 
-### `npm run build`
+        🚨  2. If there is an emergency, the user will choose the household member in need, along with the location
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+        🆘  3. This information is sent to the local 911 operator via RapidSOS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+        ❓  4. The questions are answered. The 911 operator can go straight to providing instructions while help is on the way
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+        💙  5. The frantic family member doesn't need to convey any information. They can simply receive the help they need
 
-### `npm run eject`
+<hr>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### TECH STACK
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📌 Though I have built a backend for this project, it will ultimately be replaced by the backend RapidSOS will create for this app. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ ##### [Current backend](https://github.com/Katrina-Dierking/Help-API)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+|               |               |
+| ------------- | ------------- |
+| Languages     | <img src="https://img.shields.io/badge/Lang-HTML5-ff69b4.svg?style=flat-plastic" alt="Lang"> <img src="https://img.shields.io/badge/Lang-CSS-ff69b4.svg?style=flat-plastic" alt="Lang"> <img src="https://img.shields.io/badge/Lang-JavaScript-ff69b4.svg?style=flat-plastic" alt="Lang">  |
+| Libraries     | <img src="https://img.shields.io/badge/Lib-React-blue.svg?style=flat-plastic" alt="LIBRARIES"> <img src="https://img.shields.io/badge/Lib-React--collapse-brightgreen" alt="LIBRARIES"> <img src="https://img.shields.io/badge/Lib-Axios-brightgreen" alt="LIBRARIES">|
+| Frameworks    |<img src="https://img.shields.io/badge/FW-Node.js-purple.svg?style=flat-plastic" alt="frameworks"> <img src="https://img.shields.io/badge/FW-Express-purple.svg?style=flat-plastic" alt="frameworks"> <img src="https://img.shields.io/badge/FW-PowerShell-purple.svg?style=flat-plastic" alt="frameworks"> |
+| Other |  <img src="https://img.shields.io/badge/Tools-Postman-pink.svg?style=flat-plastic" alt="tools">  <img src="https://img.shields.io/badge/Tools-Git-pink.svg?style=flat-plastic" alt="tools"> <img src="https://img.shields.io/badge/Tools-GitHub-pink.svg?style=flat-plastic" alt="tools"> <img src="https://img.shields.io/badge/Editor-VSCode-pink.svg?style=flat-plastic" alt="editor"> <img src="https://img.shields.io/badge/OS-Windows 10-pink.svg?style=flat-plastic" alt="os"> |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<hr>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 📌 IN PROGRESS:
+    💡  1. Create a dropzone for profile images
+    ➕  2. CRUD operations to allow for additional household members
+    🆘  3. Connect to RapidSOS
+    
+<hr>
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 😂 Because laughter is the best medicine!
+![Jokes Card](https://readme-jokes.vercel.app/api)
